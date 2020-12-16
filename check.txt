@@ -1,9 +1,2 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1>My First Heading</h1>
-<p>9E5A33E7-CC86-BB44-983A-4742FC5DEEC4</p>
-<b>0</b>
-</body>
-</html>
+9E5A33E7-CC86-BB44-983A-4742FC5DEEC4
+9E5A33E7-CC86-BB44-983A-4742FC5DEEC4
